@@ -10,6 +10,6 @@ void main()
 
     area = side * side ;
 
-    printf("\n Area of Square : %f",area);
+    printf("\n Area of Square : %f",area);//for print
     getch();
 }
